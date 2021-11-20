@@ -53,7 +53,7 @@ Esa solución puede servirle de guía:
 ### Documentación de las funciones
 * Escriba todos los programas de modo que estén estructurados en funciones.
 * Documente cada función de su programa de modo
-que cada función contenga comentarios en las líneas anteriores a su definición en la que se indique
+que cada una contenga comentarios en las líneas anteriores a su definición en la que se indique
 	1. Una breve descripción de la finalidad de la función
 	2. Para cada uno de sus parámetros se ha de indicar su significado
 	3. Si la función no es void, indicar el significado asimismo de su resultado
