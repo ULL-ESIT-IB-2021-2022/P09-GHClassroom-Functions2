@@ -59,7 +59,7 @@ que cada una contenga comentarios en las líneas anteriores a su definición en 
 	3. Si la función no es void, indicar el significado asimismo de su resultado
 ```
 /*
- * @brief Searches the array looking for the highest value
+ * @brief Searches the array looking for the greatest value.
  * @param array: the array to be examined
  * @return The max value 
  */
