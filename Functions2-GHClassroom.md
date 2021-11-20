@@ -6,7 +6,9 @@
 Los objetivos de esta práctica son que el alumnado:
 * Desarrolle con mayor fluidez programas sencillos en C++.
 * Profundice en el uso de funciones en sus programas.
-* Conozca el funcionamiento básico de las herramientas git y GitHub.
+* Utilice estructuras de datos simples: vectores (std::vector, std::array) y cadenas de caracteres (string).
+* Profundice el estudio y uso de las herramientas git y GitHub.
+* Comience a utilizar GitHub Classroom.
 
 ### Rúbrica de evaluacion de esta práctica
 Todo el código que se presente a evaluación ha de cumplir los estándares definidos en la 
@@ -18,6 +20,7 @@ El alumnado ha de acreditar que:
 * Conoce los conceptos expuestos en el material de referencia de esta práctica.
 * Ha realizado todos los ejercicios propuestos, así como que es capaz de desarrollar otros de complejidad similar.
 * El código que presenta para su evaluación está alojado en un repositorio privado de GitHub.
+* Todas las prácticas realizadas hasta la fecha se encuentran alojadas en repositorios de GitHub.
 * Dispone de una cuenta en la plataforma [Jutge](https://jutge.org/) y es capaz de auto-evaluar un programa en esa plataforma.
 * Sus programas se compilan correctamente utilizando la utilidad `make` y un fichero `Makefile`.
 * Todos los identificadores que utilice en su programa (constantes, variables, etc.) deberán ser
@@ -25,6 +28,11 @@ El alumnado ha de acreditar que:
   variables que utilice para iterar en un bucle.
 * Sabe editar y modificar sus programas usando VSC con una conexión remota a la máquina virtual Linux de la asignatura.
 * Ha realizado todos sus ejercicios en la Máquina Virtual Ubuntu de la asignatura.
+
+### Repositorio de código para las prácticas de la asignatura
+Utilice su cuenta GitHub para alojar en esta plataforma todas las prácticas de la asignatura que haya
+realizado hasta la actualidad.
+Recuerde utilizar nombres apropiados para cada práctica/proyecto de programación que emprenda.
 
 ### GitHub Classroom. Clonar un repositorio git 
 Para la realización de esta práctica recibirá una invitación de GitHub Classroom (una plataforma relacionada
