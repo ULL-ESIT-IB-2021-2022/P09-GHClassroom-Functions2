@@ -50,6 +50,22 @@ Esa solución puede servirle de guía:
 * Para saber cómo separar sus ficheros de código en ficheros de cabecera (`*.h` y de código `*.cc`).
 * Para estudiar el funcionamiento de la captura de parámetros pasados por línea de comandos a sus programas.
 
+### Documentación de las funciones
+* Escriba todos los programas de modo que estén estructurados en funciones.
+* Documente cada función de su programa de modo
+que cada función contenga comentarios en las líneas anteriores a su definición en la que se indique
+	1. Una breve descripción de la finalidad de la función
+	2. Para cada uno de sus parámetros se ha de indicar su significado
+	3. Si la función no es void, indicar el significado asimismo de su resultado
+```
+@brief Searches the array looking for the highest value
+@param array: the array to be examined
+@return The max value 
+int MaximumValue(const std::vector<int>& array) {
+  // Code
+}
+```
+
 ### Ejercicios
 * Desarrolle cada uno de estos ejercicios de forma incremental, probando cada una de las funciones que va Ud.
 desarrollando. Utilice el depurador de VSC para corregir cualquier tipo de error semántico que se produzca en
@@ -61,7 +77,6 @@ Asigne a cada uno de esos directorios nombres significativos.
 independiente para cada programa.
 * Utilice el depurador integrado de VSC para depurar estos programas de modo que funcionen correctamente.
 * Escriba programas que solucionen los siguientes problemas y evalúe su solución utilizando Jutge.
-* Escriba todos los programas de modo que estén estructurados en funciones.
 * Recuerde que Jutge solo evalúa la corrección de su programa desde un punto de vista del funcionamiento.
 Su código ha de cumplir adicionalmente con los requisitos de modularidad, formato y estilo.
 
